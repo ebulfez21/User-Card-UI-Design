@@ -1,0 +1,28 @@
+.icon {
+  width: 32px;
+  height: 32px;
+  display:flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+float: left;
+}
+
+
+.order {
+  background-image: url(../icon/order.svg);
+ 
+}
+.person{
+    background-image: url(../icon/person.svg);
+
+  
+    
+}
+.star {
+  background-image: url(../icon/star.svg);
+ 
+}
