@@ -7,6 +7,11 @@ body {
   align-items: center;
   background: #f3f8fe;
 }
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .box-shadov {
   width: 511px;
   height: 599px;
